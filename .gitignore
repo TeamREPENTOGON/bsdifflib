@@ -57,7 +57,3 @@ dkms.conf
 # Linux bsdiff/bspatch binaries
 bsdiff
 bspatch
-
-# bzip2 files
-bzip2/*
-!bzip2/.gitkeep
